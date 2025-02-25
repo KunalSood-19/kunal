@@ -1,0 +1,39 @@
+Here's a brief description of your **SCM Task 1.1 Evaluation** project:  
+
+---
+
+# **SCM Task 1.1 Evaluation – Git Basics**  
+**Deadline:** 26th Feb 2025, 08:00 PM | **Marks:** 10  
+
+This project is a **mandatory** assignment for Task Evaluation 1.1, focusing on **Git basics and version control using GitHub**. The objective is to demonstrate fundamental Git operations essential for collaborative software development.  
+
+## **Project Overview**  
+As part of a small development team, you will perform key Git tasks to establish a structured and efficient workflow. The project involves:  
+
+### **1. Repository Setup & Initial Commit**  
+- Create a **GitHub repository** and clone it to your local system.  
+- Initialize the repository with a **main branch**.  
+- Add a file named **project_overview.txt** with a brief project description.  
+- Make an **initial commit**.  
+
+### **2. Branch Creation & Updates**  
+- Create a new branch named **feature-update** from the main branch.  
+- Add a new file **feature_details.txt** with details of a new feature.  
+- Commit the changes to the **feature-update** branch.  
+
+### **3. Merging & Conflict Handling**  
+- Modify **feature_details.txt** in the **main branch**.  
+- Merge the **feature-update** branch into the main branch.  
+- Resolve any potential merge conflicts.  
+- Commit the final changes.  
+
+### **4. Repository Audit & Documentation**  
+- Use Git commands like `git status` and `git log` to track repository changes.  
+- Document key Git operations, including **branch creation, commits, merges, and conflict resolution**.  
+
+## **Objective & Learning Outcome**  
+By completing this assignment, you will gain hands-on experience in **Git workflow management**, including **branching, merging, conflict resolution, and repository auditing**—essential skills for modern software development.  
+
+---
+
+Let me know if you need any modifications! 🚀😊
